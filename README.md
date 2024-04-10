@@ -1,7 +1,3 @@
----
-created: 2024-04-10T05:15
-updated: 2024-04-10T05:16
----
 # Turbo Prolog Projects using DOSBox
 
 This repository contains Turbo Prolog projects that can be run using DOSBox.
