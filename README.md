@@ -43,5 +43,4 @@ The following projects are included in this repository:
 
 ### Source Code
 
-The source code for each project is located in a separate directory with the same name as the project.
-
+The source code for each project is located in the 'projects' directory.
