@@ -6,7 +6,7 @@ updated: 2024-04-10T05:16
 
 This repository contains Turbo Prolog projects that can be run using DOSBox.
 
-![[./screenshot/turbo prolog.png]]
+![Turbo Prolog](./screenshot/turbo prolog.png)
 ## Prerequisites
 
 * [DOSBox](https://www.dosbox.com/download.php?main=1)
