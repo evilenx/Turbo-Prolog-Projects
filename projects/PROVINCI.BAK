@@ -1,0 +1,21 @@
+" Establish a relationsship that deploys the provincial capitals.
+
+domains 
+  province, capital = symbol
+
+predicates 
+
+  capital(province, capital)
+
+clauses 
+  capital("Bocas del Toro", "Bocas Town").
+  capital("Chiriqui", "David").
+  capital("Cocle", "Penonome").
+  capital("Colon", "Colon").
+  capital("Darien", "La Palma").
+  capital("Herrera", "Chitre").
+  capital("Los Santos", "Las Tablas").
+  capital("Panama", "Panama City").
+  capital("Veraguas", "Santiago").
+
+
