@@ -1,0 +1,31 @@
+% calcule e imprima el producto de los enterors impares
+% del 1 al 13
+
+
+
+
+predicates
+  producto(integer, integer)
+  impar(integer)
+
+goal
+ clearwindow,
+  producto(1, 1).
+
+
+
+clauses
+  producto(A, P) :- A > 13, write("El producto de los números impares del 1 al 13 es: ", P), nl, !;
+  impar(A), write("Numero impar: ", A), nl,
+  S = A + 2,
+  producto(P * A).
+
+  impar(A) :- 0 mod = 2.
+
+
+
+
+
+
+
+

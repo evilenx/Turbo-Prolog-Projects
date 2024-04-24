@@ -41,7 +41,10 @@ The following projects are included in this repository:
 | 7 | Multiplication | Perform multiplication of 8 numbers entered by the user. |
 | 8 | Student Average | Average a student's 8 grades. |
 | 9 | Tarea 1 | Leer dos números y encontrar la suma del primero más el cuadrado del segundo.  |
-| 10 | Tarea 2 | El hotel Granade necesita un programa donde los clientes registran la cantidad de día que se hospedarán y le despliega su precio, junto a su descuento y el importe a pagar. El hotel cuenta con un promoción de 30% dedescuento en hospedaje de más de 3 días. El precio de estadía es de B/.95.00. |
+| 10 | Tarea 2 | El hotel Granade necesita un programa donde los clientes registran la cantidad de día que se hospedarán y le despliega su precio, junto a su descuento y el importe a pagar. El hotel cuenta con un promoción de 30% dedescuento en hospedaje de más de 3 días. El precio de estadía es de B/.95.00. | 
+  11  | LAB2-1 | Calcule e imprima el producto de los enteros imparares del 1 al 13.|
+  12  | LAB2-2 | Desplegar los enteros entre 20 y 40 acompañados de su potencia y raíz cuadradas respectivamente. |
+  13  | LAB2-3 | Desplegar múltiplos de 5 entre 20 y 60. |
 
 ### Source Code
 
