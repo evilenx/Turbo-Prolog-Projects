@@ -44,7 +44,9 @@ The following projects are included in this repository:
 | 10 | Tarea 2 | El hotel Granade necesita un programa donde los clientes registran la cantidad de día que se hospedarán y le despliega su precio, junto a su descuento y el importe a pagar. El hotel cuenta con un promoción de 30% dedescuento en hospedaje de más de 3 días. El precio de estadía es de B/.95.00. | 
   11  | LAB2-1 | Calcule e imprima el producto de los enteros imparares del 1 al 13.|
   12  | LAB2-2 | Desplegar los enteros entre 20 y 40 acompañados de su potencia y raíz cuadradas respectivamente. |
-  13  | LAB2-3 | Desplegar múltiplos de 5 entre 20 y 60. |
+  13  | lab2-3 | desplegar múltiplos de 5 entre 20 y 60. |
+  14  | lab3-1 | Desarrolle un programa de ciclo que calcule e imprima el producto de los enteros impares del 1 al 9. |
+  15  | LAB3-2 | Desarrolle un programa para producir las siguiente tabla de valores: {ciclos A A+2 A+4 A+6} |
 
 ### Source Code
 

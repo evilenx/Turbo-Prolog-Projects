@@ -1,0 +1,36 @@
+% LAB 3
+% Desarrolle un programa de ciclo que calcule
+% e imprima el producto de lo enteros impares del 1
+% al 9.
+
+% Emanuel Aviles ec-25-15-15187
+
+predicates
+    producto(integer, real)
+    impar(integer)
+
+clauses
+    producto(A, P):-
+        A > 9,
+        write("\nEl producto de los numeros impares del 1 al 9 es:", P),
+        nl,
+        !.
+
+    producto(A, P) :-
+        impar(A),
+        write("Numero impar: ", A),
+        nl,
+        N = P * A,
+        S = A + 2,
+        producto(S, N).
+    producto(A, P) :-
+        not(impar(A)),
+        S = A + 1,
+        producto(S, P).
+
+    impar(A) :-
+        A mod 2 = 1.
+
+goal
+    clearwindow,
+    producto(1, 1).
