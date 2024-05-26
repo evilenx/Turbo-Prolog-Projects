@@ -47,6 +47,8 @@ The following projects are included in this repository:
   13  | lab2-3 | desplegar múltiplos de 5 entre 20 y 60. |
   14  | lab3-1 | Desarrolle un programa de ciclo que calcule e imprima el producto de los enteros impares del 1 al 9. |
   15  | LAB3-2 | Desarrolle un programa para producir las siguiente tabla de valores: {ciclos A A+2 A+4 A+6} |
+  16  | Examen/Ejericio1 | Leer dos números y encontrar la suma del cubo del primero más el cuadrado del segundo más el doble del primero por el segundo | 
+| 17 | Examen/Ejercicio2 | Escribir un programa que calcule la suma de cada décimo entero,, comenzando con i=2 para todos los valores de i menores que 55. Imprimir los valores que se están sumando y al final la suma total. Usar ciclos Es decir: la suma de 2 + 12 + 22 + 32 + ... La salida = 162. | 
 
 ### Source Code
 

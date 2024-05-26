@@ -1,0 +1,14 @@
+%parcial miercoles
+
+ejercicio 1
+
+
+predicates
+
+
+goal
+  write("hola mundo").
+
+
+clauses
+
